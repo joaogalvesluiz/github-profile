@@ -2,7 +2,14 @@
 ## Search and List Profiles from Github
 check on : https://githubprofile-app.netlify.app
 
-### Features Used - With the following features
+### 🛠 Technologies
+
+The following tools were used in the construction of the project:
+
+   * Javascript
+   * Github Api (https://developer.github.com/v3/)
+
+### Features Used
 
    * Search a Profile
    * Show Followers, etc.
@@ -10,12 +17,7 @@ check on : https://githubprofile-app.netlify.app
    * Design (https://uidesigndaily.com/posts/photoshop-profile-card-user-day-286)
 
 
-### 🛠 Technologies
 
-The following tools were used in the construction of the project:
-
-   * Javascript
-   * Github Api (https://developer.github.com/v3/)
 
 ### Pictures 
   Desktop View
